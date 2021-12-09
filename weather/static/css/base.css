@@ -1,0 +1,52 @@
+body{
+
+    background: white url("images/background111.jpg")!important;
+    background-size: cover !important;
+    top: 0; 
+    left: 0; 
+    min-width: 100%;
+    min-height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#icon {display:inline-block;margin-right:10px !important;}
+#thendi {display:inline-block !important;}
+
+
+.container{
+        border-radius: 15px !important;
+        background: blue url("images/background4.jpg") !important;
+        max-height: 10cm !important;
+        padding-bottom: 3px;
+        padding-top: 3px;
+}
+.icon2 {display:inline-block;margin-right:10px !important;}
+#nari {display:inline-block !important;}
+
+.row{
+    display: -webkit-flex !important;
+    flex-wrap: nowrap !important;
+}
+
+.hi{
+    min-height: 7cm !important;
+    max-height: 7cm !important;
+    border-radius: 5px !important;
+
+}
+
+#t1c{
+    color: whitesmoke !important;
+}
+
+button{
+    border-radius: 9px !important;
+}
+
+input {
+    border-radius: 9px !important; 
+}
+
+
+
